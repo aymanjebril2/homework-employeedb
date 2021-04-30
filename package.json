@@ -1,0 +1,11 @@
+{
+  "name": "homework-employeedb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aymanjebril2/homework-employeedb.git",
+  "author": "Ayman Omer <aymangebrilomer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.12.7"
+  }
+}
