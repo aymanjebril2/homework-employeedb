@@ -44,7 +44,7 @@ const main = async () => {
   ];
 
   await Employee.insertMany(employees);
-  console.log("Employees document has been created");
+  console.log("Employees been created");
 };
 
 const run = async () => {
