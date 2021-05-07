@@ -15,7 +15,7 @@ const createEmployee = async () => {
       zip: 10457,
     },
   });
-  console.log("all Bulisher ", shan);
+  console.log("all Employee ", shan);
 };
 const updaingEmployee = async () => {
   const newUpdat = await Employee.updateMany(
